@@ -13,7 +13,7 @@ Laravel supports many different databases and therefore has to limit itself to t
 You can install the package via composer:
 
 ```bash
-composer require tpetry/laravel-postgresql-enhanced
+composer require dagasmart/postgresql-enhanced
 ```
 
 # Versioning Policy
